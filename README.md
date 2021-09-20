@@ -10,4 +10,9 @@ Please cite: Orabi EA, Ozturk T, Bernhardt N & Faraldo-Gómez JD, J Chem Theor C
 
 Force-Correction Analysis Method (Code, Documentation and Tutorial)   
 Fabrizio Marinelli and José D Faraldo-Gómez, August 2021  
-Please cite: Marinelli F & Faraldo-Gómez JD, J Chem Theor Comput 2021, under review.   
+Please cite: Marinelli F & Faraldo-Gómez JD, J Chem Theor Comput 2021, in press.
+
+## hDHHC20-PCoA-R.tar.gz  
+Configurations of hDHHC20-pCoA complex observed in MD simulations in seemingly reactive state
+Robyn Stix and José D Faraldo-Gómez, September 2021 
+Please cite: Lee CJ, Stix R ... Faraldo-Gómez JD & Banerjee A, 2021, under review
