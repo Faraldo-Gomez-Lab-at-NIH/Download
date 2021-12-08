@@ -6,8 +6,8 @@ Esam A Orabi and José D Faraldo-Gómez, July 2021
 Please cite: Orabi EA, Ozturk T, Bernhardt N & Faraldo-Gómez JD, J Chem Theor Comput 2021, 17:6240-6261.
 
 ## Force-Correction Analysis Method (FCAM) 
-Software, Documentation and Examples 
-https://github.com/Faraldo-Gomez-Lab-at-NIH/FCAM/releases/tag/fcam_v1 
+Software, Documentation and Examples   
+https://github.com/Faraldo-Gomez-Lab-at-NIH/FCAM/releases/tag/fcam_v1  
 Fabrizio Marinelli and José D Faraldo-Gómez, August 2021  
 Please cite: Marinelli F & Faraldo-Gómez JD, J Chem Theor Comput 2021, 17:6775–6788
 
