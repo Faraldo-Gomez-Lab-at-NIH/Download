@@ -11,7 +11,7 @@ https://github.com/Faraldo-Gomez-Lab-at-NIH/FCAM/releases/tag/fcam_v1
 Fabrizio Marinelli and José D Faraldo-Gómez, August 2021  
 Please cite: Marinelli F & Faraldo-Gómez JD, J Chem Theor Comput 2021, 17:6775–6788
 
-## hDHHC20-pCoA-R.tar.gz  
+## hDHHC20-pCoA-R.zip  
 Configurations of hDHHC20-pCoA complex observed in MD simulations in seemingly reactive state  
 Robyn Stix and José D Faraldo-Gómez, September 2021   
 Please cite: Lee CJ, Stix R ... Faraldo-Gómez JD & Banerjee A, 2021, under review 
