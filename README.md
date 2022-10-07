@@ -4,6 +4,7 @@
 The latest release of the free energy analysis software implementing the 
 force-correction analysis method (FCAM) can be downoladed here (including documentation and examples):
 https://github.com/FCAM-NIH/FCAM/releases/tag/v1.0.1
+
 Please cite: Marinelli, F. & Faraldo-Gomez JD, J Chem Theory Comput, 2021, 17:6775-6788
 
 ## toppar_halides.str
