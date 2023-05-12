@@ -6,8 +6,7 @@ Wenchang Zhou and José D Faraldo-Gómez, May 2023
 Please cite: Niu W, Zhou W ... Faraldo-Gómez JD & Zheng L, Commmun Biol 2023, in press  
 
 ## FCAM 
-The latest release of the free energy analysis software implementing the 
-force-correction analysis method (FCAM) can be downoladed here (including documentation and examples):
+The latest release of the force-correction analysis method (FCAM), including documentation and examples, can be downoladed at
 https://github.com/FCAM-NIH/FCAM/releases/tag/v1.0.1  
 Please cite: Marinelli, F. & Faraldo-Gomez JD, J Chem Theory Comput 2021, 17:6775-6788
 
