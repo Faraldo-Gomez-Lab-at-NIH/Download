@@ -1,5 +1,8 @@
 # Download
 
+## NCX_Mj MD trajectories
+https://github.com/Faraldo-Gomez-Lab-at-NIH/NCX_MJ_data/releases/tag/v1
+
 ## YfkE MD trajectory
 Snapshots of YfkE Ca2+/H+ antiporter from MD simulations of H+-bound state, and input files  
 Wenchang Zhou and José D Faraldo-Gómez, May 2023  
