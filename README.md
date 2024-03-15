@@ -2,7 +2,7 @@
 
 ## NCX_Mj MD trajectories
 Structural snapshots of NCX_Mj Na+/Ca2+ antiporter from MD simulations of 3Na+, 1Ca2+, apo, 2Na+, 
-and 2H+ bound states, and input/output files.
+and 2H+ bound states, and input/output files. Refined structures of NCX_Mj bound to Ca2+ and Sr2+.
 Fabrizio Marinelli and José D Faraldo-Gómez, March 2024.
 Please cite: Marinelli F & Faraldo-Gómez JD. PNAS 2024, in press.
 Data can be downloaded at https://github.com/Faraldo-Gomez-Lab-at-NIH/NCX_MJ_data/releases/tag/v1
