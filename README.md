@@ -1,5 +1,11 @@
 # Download
 
+## MARTINI2 in NAMD2
+Code to reformat MARTINI 2.2 parameter and topology files from GROMACS to NAMD. 
+Yein Christina Park, Giacomo Fiorin, and José D Faraldo-Gómez, 2026.
+Please cite: Park YC, Fiorin G & Faraldo-Gómez JD. J Phys Chem A, in press.
+Files can be downloaded at https://github.com/1004parky/martini2_in_namd/releases/tag/v1
+
 ## NCX_Mj MD trajectories
 Structural snapshots of NCX_Mj Na+/Ca2+ antiporter from MD simulations of 3Na+, 1Ca2+, apo, 2Na+, 
 and 2H+ bound states, and input/output files. Refined structures of NCX_Mj bound to Ca2+ and Sr2+.
