@@ -1,10 +1,10 @@
 # Download
 
 ## RY785 CHARMM36m-compatible forcefield files
-ry785_cgff.str 
-ry785_opt.str 
-Esam Orabi and José D Faraldo-Gómez, 2024 
-Please cite: Zhang S, Stix R, Orabi E, Bernhardt NB & Faraldo-Gómez JD, eLife 2026
+ry785_cgff.str  
+ry785_opt.str  
+Esam Orabi and José D Faraldo-Gómez, 2024  
+Please cite: Zhang S, Stix R, Orabi E, Bernhardt NB & Faraldo-Gómez JD, eLife 2026  
 
 ## MARTINI2 in NAMD2
 Code to reformat MARTINI 2.2 parameter and topology files from GROMACS to NAMD. 
