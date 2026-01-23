@@ -7,22 +7,22 @@ Esam Orabi and José D Faraldo-Gómez, 2024
 Please cite: Zhang S, Stix R, Orabi E, Bernhardt NB & Faraldo-Gómez JD, eLife 2026  
 
 ## MARTINI2 in NAMD2
-Code to reformat MARTINI 2.2 parameter and topology files from GROMACS to NAMD. 
-Yein Christina Park, Giacomo Fiorin, and José D Faraldo-Gómez, 2026.
-Please cite: Park YC, Fiorin G & Faraldo-Gómez JD. J Phys Chem A, in press.
-Files can be downloaded at https://github.com/1004parky/martini2_in_namd/releases/tag/v1
+Code to reformat MARTINI 2.2 parameter and topology files from GROMACS to NAMD  
+Yein Christina Park, Giacomo Fiorin, and José D Faraldo-Gómez, 2026  
+Please cite: Park YC, Fiorin G & Faraldo-Gómez JD. J Phys Chem A, under review  
+Files can be downloaded at https://github.com/1004parky/martini2_in_namd/releases/tag/v1    
 
 ## NCX_Mj MD trajectories
 Structural snapshots of NCX_Mj Na+/Ca2+ antiporter from MD simulations of 3Na+, 1Ca2+, apo, 2Na+, 
-and 2H+ bound states, and input/output files. Refined structures of NCX_Mj bound to Ca2+ and Sr2+.
-Fabrizio Marinelli and José D Faraldo-Gómez, March 2024.
-Please cite: Marinelli F & Faraldo-Gómez JD. PNAS 2024, in press.
-Data can be downloaded at https://github.com/Faraldo-Gomez-Lab-at-NIH/NCX_MJ_data/releases/tag/v1
+and 2H+ bound states, including input/output files, and refined structures of NCX_Mj bound to Ca2+ and Sr2+  
+Fabrizio Marinelli and José D Faraldo-Gómez,2024  
+Please cite: Marinelli F & Faraldo-Gómez JD PNAS 2024  
+Data can be downloaded at https://github.com/Faraldo-Gomez-Lab-at-NIH/NCX_MJ_data/releases/tag/v1  
 
 ## YfkE MD trajectory
 Snapshots of YfkE Ca2+/H+ antiporter from MD simulations of H+-bound state, and input files  
 Wenchang Zhou and José D Faraldo-Gómez, May 2023  
-Please cite: Niu W, Zhou W ... Faraldo-Gómez JD & Zheng L, Commmun Biol 2023, in press  
+Please cite: Niu W, Zhou W ... Faraldo-Gómez JD & Zheng L, Commmun Biol 2023  
 
 ## FCAM 
 The latest release of the force-correction analysis method (FCAM), including documentation and examples, can be downoladed at
